@@ -1,0 +1,10 @@
+C:\Users\최영민\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\04_MotionControl\PanTiltZoom\PanTiltZoom\bin\x86\Release\02_PTZ_Camera_Motion_Control.exe.config
+C:\Users\최영민\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\04_MotionControl\PanTiltZoom\PanTiltZoom\bin\x86\Release\02_PTZ_Camera_Motion_Control.exe
+C:\Users\최영민\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\04_MotionControl\PanTiltZoom\PanTiltZoom\bin\x86\Release\02_PTZ_Camera_Motion_Control.pdb
+C:\Users\최영민\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\04_MotionControl\PanTiltZoom\PanTiltZoom\bin\x86\Release\OzekiSDK.dll
+C:\Users\최영민\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\04_MotionControl\PanTiltZoom\PanTiltZoom\obj\x86\Release\_02_PTZ_Camera_Motion_Control.MainForm.resources
+C:\Users\최영민\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\04_MotionControl\PanTiltZoom\PanTiltZoom\obj\x86\Release\PanTiltZoom.csproj.GenerateResource.cache
+C:\Users\최영민\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\04_MotionControl\PanTiltZoom\PanTiltZoom\obj\x86\Release\PanTiltZoom.csproj.CoreCompileInputs.cache
+C:\Users\최영민\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\04_MotionControl\PanTiltZoom\PanTiltZoom\obj\x86\Release\PanTiltZoom.csproj.CopyComplete
+C:\Users\최영민\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\04_MotionControl\PanTiltZoom\PanTiltZoom\obj\x86\Release\02_PTZ_Camera_Motion_Control.exe
+C:\Users\최영민\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\04_MotionControl\PanTiltZoom\PanTiltZoom\obj\x86\Release\02_PTZ_Camera_Motion_Control.pdb

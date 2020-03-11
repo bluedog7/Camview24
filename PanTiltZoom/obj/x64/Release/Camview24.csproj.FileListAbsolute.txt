@@ -1,0 +1,12 @@
+F:\Source\PanTiltZoom\PanTiltZoom\bin\x64\Release\Camview24.exe.config
+F:\Source\PanTiltZoom\PanTiltZoom\bin\x64\Release\Camview24.exe
+F:\Source\PanTiltZoom\PanTiltZoom\bin\x64\Release\Camview24.pdb
+F:\Source\PanTiltZoom\PanTiltZoom\bin\x64\Release\OzekiSDK.dll
+F:\Source\PanTiltZoom\PanTiltZoom\obj\x64\Release\_02_PTZ_Camera_Motion_Control.MainForm.resources
+F:\Source\PanTiltZoom\PanTiltZoom\obj\x64\Release\_02_PTZ_Camera_Motion_Control.Properties.Resources.resources
+F:\Source\PanTiltZoom\PanTiltZoom\obj\x64\Release\Camview24.csproj.GenerateResource.cache
+F:\Source\PanTiltZoom\PanTiltZoom\obj\x64\Release\Camview24.csproj.CoreCompileInputs.cache
+F:\Source\PanTiltZoom\PanTiltZoom\obj\x64\Release\Camview24.csproj.CopyComplete
+F:\Source\PanTiltZoom\PanTiltZoom\obj\x64\Release\Camview24.exe
+F:\Source\PanTiltZoom\PanTiltZoom\obj\x64\Release\Camview24.pdb
+F:\Source\PanTiltZoom\PanTiltZoom\obj\x64\Release\Camview24.csprojAssemblyReference.cache
